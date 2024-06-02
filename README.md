@@ -1,6 +1,6 @@
 ![MasterHead](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&h=400&q=60)
 <h1 align="center">Hi 👋, I'm AHNAF ABIR</h1>
-<h3 align="center">A passionate Next.Js developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 
 - 🌱 I’m currently learning **Fullstack Web development**
 
