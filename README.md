@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AHNAF ABIR</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **Fullstack Web development**
+- 🌱 I’m currently learning **Fullstack Web development and CICD pipeline**
 
 - 📫 How to reach me **ahnafnoman70@gmail.com**
 
